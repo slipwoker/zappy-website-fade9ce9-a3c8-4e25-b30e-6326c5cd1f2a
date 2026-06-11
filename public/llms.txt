@@ -7,33 +7,33 @@
 ## Pages
 
 ### Home
-https://hands-of-grace-community-outreach-fade9ce9.zappy5.app
+https://example.com
 Struggling to make ends meet? Hands Of Grace Community Outreach offers food, clothing, utility assistance, and medication help with dignity and love. Get support or volunteer today in Manning, SC.
 
 ### Services
-https://hands-of-grace-community-outreach-fade9ce9.zappy5.app/services
+https://example.com/services
 Discover our compassionate services: emergency food, clothing closets, overdue utility support, and medication assistance. We&#39;re here to lift you up with respect and practical help. Explore how we can serve you.
 
 ### About
-https://hands-of-grace-community-outreach-fade9ce9.zappy5.app/about
+https://example.com/about
 Learn about our faith-rooted, inclusive mission led by Founder Ronald Collins and a dedicated team of four directors. We serve every neighbor with dignity, not judgment. See why compassion drives everything we do.
 
 ### Contact
-https://hands-of-grace-community-outreach-fade9ce9.zappy5.app/contact
+https://example.com/contact
 Need help or want to donate? Contact our Manning, SC team to access food, clothing, or utility assistance — or to volunteer your time. Every act of grace starts with a conversation. Get in touch now.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://hands-of-grace-community-outreach-fade9ce9.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://hands-of-grace-community-outreach-fade9ce9.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://hands-of-grace-community-outreach-fade9ce9.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://hands-of-grace-community-outreach-fade9ce9.zappy5.app/contact
-- Endpoint: https://hands-of-grace-community-outreach-fade9ce9.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -81,6 +81,6 @@ Nonprofit / Social Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://hands-of-grace-community-outreach-fade9ce9.zappy5.app/sitemap.xml
-- Robots: https://hands-of-grace-community-outreach-fade9ce9.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://hands-of-grace-community-outreach-fade9ce9.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
